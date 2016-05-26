@@ -1,0 +1,12 @@
+template
+{*}* WP|WDT {*/*/*/*/O/O}* {*/*/*/*/A|D#1}+ {*}*
+
+select distinct ?ans where { 
+?obs qb:dataSet <dataset> .
+?obs <measure> ?measure .
+?obs <property##1> ?ans .
+<constraints>
+}
+<orderbysummeasure>
+
+%Which programs were done under the class of public works and utilities in the expenditure of the Town of Cary?

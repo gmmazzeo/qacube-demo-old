@@ -1,0 +1,8 @@
+template
+*/when {*}*
+
+select distinct ?ans where { 
+?obs qb:dataSet <dataset> .
+?obs <http://linkedspending.aksw.org/ontology/refDate> ?ans .
+<constraints>
+}

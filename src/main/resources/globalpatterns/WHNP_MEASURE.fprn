@@ -1,0 +1,9 @@
+template
+{*}* WP|WDT {*/*/*/*/O/O}* {*/*/*/*/M|S#2}+ {*}*
+
+select <groupbyvar> (sum(xsd:decimal(?measure)) as ?sumans) where { 
+?obs qb:dataSet <dataset> .
+?obs <measure##2> ?measure .
+<constraints>
+}
+<groupby>

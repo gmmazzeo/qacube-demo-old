@@ -1,0 +1,5 @@
+orderbysummeasure
+{*}* {CD#1}* */max|maximum|first|top|most|high|highest/*/*/O {CD#1}* {*}*
+
+group by ?ans
+order by desc(sum(xsd:decimal(?measure))) limit <limit##1>

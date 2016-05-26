@@ -1,0 +1,19 @@
+.large {
+    height: auto !important; 
+    height: 1%;
+    border: 1px solid #8496ba;
+    cursor: text;
+    font-family: Verdana, sans-serif;
+    min-height: 1px;
+    z-index: 6000;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 3px;
+    background-color: #fff;
+    list-style-type: none;
+    clear: left;
+    font-size: 22px;
+    line-height: 24px;
+}
