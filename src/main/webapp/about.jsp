@@ -9,8 +9,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
-        <link rel="stylesheet" href="http://yellowstone.cs.ucla.edu/wis/css/normalize.min.css" />
-        <link rel="stylesheet" href="http://yellowstone.cs.ucla.edu/wis/css/main.css" />
+        <link rel="stylesheet" href="http://131.179.64.145/wis/css/normalize.min.css" />
+        <link rel="stylesheet" href="http://131.179.64.145/wis/css/main.css" />
         <script>
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;
