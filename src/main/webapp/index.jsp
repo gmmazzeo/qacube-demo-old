@@ -9,8 +9,8 @@
         <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css" />
         <link rel="stylesheet" href="styles/dialog.css" type="text/css" />
         <link rel="stylesheet" href="styles/main.css" type="text/css" />
-        <link rel="stylesheet" href="http://yellowstone.cs.ucla.edu/wis/css/normalize.min.css" />
-        <link rel="stylesheet" href="http://yellowstone.cs.ucla.edu/wis/css/main.css" />
+        <link rel="stylesheet" href="http://131.179.64.145/wis/css/normalize.min.css" />
+        <link rel="stylesheet" href="http://131.179.64.145/wis/css/main.css" />
         <script type="text/javascript" src="questions.js"></script>
         <script type="text/javascript">
             function select() {
