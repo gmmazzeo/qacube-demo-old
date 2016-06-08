@@ -59,7 +59,7 @@
             <header class="wrapper clearfix">
                 <table class="header-table">
                     <tr>
-                        <td><img src="http://yellowstone.cs.ucla.edu/wis/img/logo1.jpg" width="200" alt="ScAI"> </td>
+                        <td><img src="http://131.179.64.145/wis/img/logo1.jpg" width="200" alt="ScAI"> </td>
                         <td>    <div class="title-container">
                                 <h1 class="title">QA<sup>3</sup>: Statistical Question Answering over RDF Cubes</h1>
                             </div>
